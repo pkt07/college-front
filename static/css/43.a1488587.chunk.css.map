@@ -1,0 +1,1 @@
+{"version":3,"sources":["cards.css"],"names":[],"mappings":"AAAA,YACE,YACF","file":"43.a1488587.chunk.css","sourcesContent":["tbody + thead{\n  display: none;\n}"]}
