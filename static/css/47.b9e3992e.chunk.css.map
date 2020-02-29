@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,YACI,YACF","file":"47.b9e3992e.chunk.css","sourcesContent":["tbody + thead{\n    display: none;\n  }"]}
