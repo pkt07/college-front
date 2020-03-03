@@ -1,0 +1,1 @@
+{"version":3,"sources":["cards.css"],"names":[],"mappings":"AAAA,YACE,YACF,CACA,SACE,eACF","file":"43.ca215f07.chunk.css","sourcesContent":["tbody + thead{\n  display: none;\n}\n.myTable{\n  overflow-x:auto;\n}"]}
